@@ -27,7 +27,7 @@ shortest path-
 -A* algorithm(<a href="https://www.geeksforgeeks.org/a-search-algorithm/">A* algo</a>)
 
 
-## Path Planning Algo (Basic idea)
+### Path Planning Algo (Basic idea)
 
 Path planning is used for autonomous robots to find the shortest path in the given environment. Path planning requires a map of the environment, let it be line follow or to navigate from one
 place to another. It is required to have a map of the environment and the robot to be aware of its
@@ -44,16 +44,7 @@ GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Al
 
 link-->"http://www.brainkart.com/article/Various-types-of-Gripper-mechanisms_5144/"</a>
 
-## Image processing(Optional)
-
-Drive link-->"https://drive.google.com/drive/folders/1H0d82R9417ftOzbSZWzKUsM8oqqjVsnu?usp=sharing"
-
-## PCB designing tutorials(optional)
-
-link-->https://www.youtube.com/playlist?list=PL3by7evD3F51fKkyrUbH-PCdwPCWc9F8a
-
 ## SENSOR
-
 This is the list of the sensor . You need to simulate and program for each sensor.
 
 1.Microcontroller - Atmega 2560 development board and Ardiuno
@@ -95,6 +86,14 @@ This is the list of the sensor . You need to simulate and program for each senso
 19.ESP8266(optional)
 
 20.IR proximity sensor & Ultrasonic sensor
+
+## Image processing(Optional)
+
+Drive link-->"https://drive.google.com/drive/folders/1H0d82R9417ftOzbSZWzKUsM8oqqjVsnu?usp=sharing"
+
+## PCB designing tutorials(optional)
+
+link-->https://www.youtube.com/playlist?list=PL3by7evD3F51fKkyrUbH-PCdwPCWc9F8a
 
 ## V-rep simulation software(Optional)
 
