@@ -30,3 +30,8 @@ GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Al
 ## Gripper Mechanism
 
 link-->"http://www.brainkart.com/article/Various-types-of-Gripper-mechanisms_5144/"</a>
+
+## Image processing(Optional)
+
+Drive link-->"https://drive.google.com/drive/folders/1H0d82R9417ftOzbSZWzKUsM8oqqjVsnu?usp=sharing"
+
