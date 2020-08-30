@@ -18,3 +18,10 @@ Youtube lnk for embedded c "https://www.youtube.com/playlist?list=PLK0jpMYIBd6AL
 
 Drive link for PID "https://drive.google.com/drive/u/1/folders/1Z4rU0KKnKRYiyzH1LWut_zPuJXT_inqG" </a>
 
+## Data structure
+
+GFG link <a href="https://www.geeksforgeeks.org/data-structures/">a Data Structure</a>
+
+## algorithms
+
+GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >a Algorithms</a>
