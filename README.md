@@ -26,6 +26,8 @@ shortest path-Dijkstra shortest path algorithm </a>
              
              -Dijkstra algorithm for adjacency list Representation
              
-             -A* algorithm <a href="https://www.geeksforgeeks.org/a-search-algorithm/" </a>
-             
+             -A* algorithm <a href="https://www.geeksforgeeks.org/a-search-algorithm/"</a>
+
+<a href="https://www.geeksforgeeks.org/a-search-algorithm/"</a>
+
 GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms</a>
