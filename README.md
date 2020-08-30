@@ -12,7 +12,7 @@ Drive link for PID--> "https://drive.google.com/drive/folders/1Z4rU0KKnKRYiyzH1L
 GFG link--> <a href="https://www.geeksforgeeks.org/data-structures/">Data Structure</a>
 
 ## Algorithms
-Main algorithms for Graph traversal and shortest path finding</a>
+# #####Main algorithms for Graph traversal and shortest path finding</a>
 
 Graph representation,
 BFS,
