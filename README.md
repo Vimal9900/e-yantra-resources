@@ -43,25 +43,45 @@ link-->https://www.youtube.com/playlist?list=PL3by7evD3F51fKkyrUbH-PCdwPCWc9F8a
 ## SENSOR
 
 This is the list of the sensor . You need to simulate and program for each sensor.
+
 1.Microcontroller - Atmega 2560 development board and Ardiuno
+
 2.STK-500
+
 3.White line sensor
+
 4.Servo motor
+
 5.Geared DC motor with Encoder
+
 6.l298N Motor Driver
+
 7.LCD
+
 8.Accelerometer
+
 9.Barometer(Altitude measurment)
+
 10.Magnetometer
+
 11.Gyroscope sensor
+
 12.IMU sensor (combination of 8-11)
+
 13.GP2Y0A21YK SHARP sensor
+
 14.MIcro SD CARD sensor
+
 15.HC-12 communication sensor
+
 16.NRF communication sensor
+
 17.Xbee
+
 18. Blueetooth module
+
 19.ESP8266(optional)
+
 20.IR proximity sensor & Ultrasonic sensor
 ## V-rep simulation software
 
