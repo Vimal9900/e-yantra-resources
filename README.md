@@ -1,9 +1,9 @@
 # e-yantra-resources
-## Link for Embedded C by eyantra
+## Link for Embedded C 
 
 Youtube lnk for embedded c--> "https://www.youtube.com/playlist?list=PLK0jpMYIBd6ALIpRF3navv9Sao3vpD_Fj" </a>
 
-## Link for PID by Udemy
+## Link for PID
 
 Drive link for PID--> "https://drive.google.com/drive/folders/1Z4rU0KKnKRYiyzH1LWut_zPuJXT_inqG?usp=sharing" </a>
 
@@ -38,7 +38,7 @@ individual to decide which path planning algorithm is best suited for the given 
 
 GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms</a>
 
-Youtube link-->"https://www.youtube.com/watch?v=iv5DcAi411I&feature=youtu.be" find other videos on <a href="https://www.youtube.com/c/CodingBlocksIndia/playlists">a coding blocks</a>
+Youtube link-->"https://www.youtube.com/playlist?list=PLl4Y2XuUavmtTOvFcW3HfI1oQ3hsgkB3a" 
 
 
 ## Gripper Mechanism
