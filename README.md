@@ -16,8 +16,7 @@ Main algorithms for Graph traversal and shortest path finding</a>
 
 Graph representation</a>
 
-BFS</a>
-
+BFS
 DFS</a>
 
 DF traversal for a Graph</a>
