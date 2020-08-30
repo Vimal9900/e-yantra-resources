@@ -22,9 +22,9 @@ DFS</a>
 
 DF traversal for a Graph</a>
 
-shortest path-Dijkstra shortest path algorithm </a>
+shortest path-Dijkstra shortest path algorithm -
              
-             -Dijkstra algorithm for adjacency list Representation
+ -Dijkstra algorithm for adjacency list Representation:-
              
 -A* algorithm <a href="https://www.geeksforgeeks.org/a-search-algorithm/"</a>
 
