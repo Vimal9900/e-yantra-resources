@@ -20,8 +20,15 @@ Drive link for PID "https://drive.google.com/drive/u/1/folders/1Z4rU0KKnKRYiyzH1
 
 ## Data structure
 
-GFG link <a href="https://www.geeksforgeeks.org/data-structures/">a Data Structure</a>
+GFG link <a href="https://www.geeksforgeeks.org/data-structures/">Data Structure</a>
 
 ## algorithms
-
-GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >a Algorithms</a>
+Main algorithms for Graph traversal and shortest path finding
+Graph representation
+BFS
+DFS
+DF traversal for a Graph
+shortest path-Dijkstra shortest path algorithm
+             -Dijkstra algorithm for adjacency list Representation
+             -A* algorithm("https://www.geeksforgeeks.org/a-search-algorithm/"
+GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms</a>
