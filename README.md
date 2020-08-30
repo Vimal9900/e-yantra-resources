@@ -37,7 +37,8 @@ individual to decide which path planning algorithm is best suited for the given 
  https://qiao.github.io/PathFinding.js/visual/
 
 GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms</a>
-Youtube link-->"https://www.youtube.com/watch?v=iv5DcAi411I&feature=youtu.be" find other videos also on <a href="https://www.youtube.com/c/CodingBlocksIndia/playlists">a coding blocks</a>
+
+Youtube link-->"https://www.youtube.com/watch?v=iv5DcAi411I&feature=youtu.be" find other videos on <a href="https://www.youtube.com/c/CodingBlocksIndia/playlists">a coding blocks</a>
 
 
 ## Gripper Mechanism
