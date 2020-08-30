@@ -1,4 +1,2 @@
 # e-yantra-resources
-<div align="center">
-  <a href="https://vimeo.com/3514904"></a>
-</div>
+Used data provided by ISRO from https://vedas.sac.gov.in/vcms/en/sih2020.html
