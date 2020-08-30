@@ -36,7 +36,7 @@ link-->"http://www.brainkart.com/article/Various-types-of-Gripper-mechanisms_514
 
 Drive link-->"https://drive.google.com/drive/folders/1H0d82R9417ftOzbSZWzKUsM8oqqjVsnu?usp=sharing"
 
-##PCB designing tutorials
+## PCB designing tutorials(optional)
 
 link-->https://www.youtube.com/playlist?list=PL3by7evD3F51fKkyrUbH-PCdwPCWc9F8a
 
