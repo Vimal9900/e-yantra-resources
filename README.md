@@ -22,12 +22,12 @@ DF traversal for a Graph,
 shortest path-
 -Dijkstra shortest path algorithm
              
- -Dijkstra algorithm for adjacency list Representation:-
+ -Dijkstra algorithm for adjacency list Representation
              
 -A* algorithm(<a href="https://www.geeksforgeeks.org/a-search-algorithm/">A* algo</a>)
 
 
-### Path Planning Algo (Basic idea)
+#### Path Planning Algo (Basic idea)
 
 Path planning is used for autonomous robots to find the shortest path in the given environment. Path planning requires a map of the environment, let it be line follow or to navigate from one
 place to another. It is required to have a map of the environment and the robot to be aware of its
