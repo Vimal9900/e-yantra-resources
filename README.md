@@ -83,6 +83,7 @@ This is the list of the sensor . You need to simulate and program for each senso
 19.ESP8266(optional)
 
 20.IR proximity sensor & Ultrasonic sensor
+
 ## V-rep simulation software
 
 To get a better understanding of V-REP simulator, go through the following resources:
