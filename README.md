@@ -11,7 +11,7 @@ Drive link for PID "https://drive.google.com/drive/u/1/folders/1Z4rU0KKnKRYiyzH1
 
 GFG link <a href="https://www.geeksforgeeks.org/data-structures/">Data Structure</a>
 
-## algorithms
+## Algorithms
 Main algorithms for Graph traversal and shortest path finding</a>
 
 Graph representation,
@@ -26,3 +26,7 @@ shortest path-Dijkstra shortest path algorithm -
 -A* algorithm(<a href="https://www.geeksforgeeks.org/a-search-algorithm/">A* algo</a>)
 
 GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms</a>
+
+## Gripper Mechanism
+
+link <"http://www.brainkart.com/article/Various-types-of-Gripper-mechanisms_5144/"</a>
