@@ -9,3 +9,12 @@ LK Algorithm flow vector ploat on images  <a href="https://youtu.be/jMYIyAPrQBY"
 Research paper "https://arxiv.org/pdf/1412.6604.pdf" </a> 
 
 LK Algorithm flow vector ploat on images  <a href="https://youtu.be/jMYIyAPrQBY">Video</a>
+
+## Link for Embedded C by eyantra
+
+Youtube lnk for embedded c "https://www.youtube.com/playlist?list=PLK0jpMYIBd6ALIpRF3navv9Sao3vpD_Fj" </a>
+
+## Link for PID by Udemy
+
+Drive link for PID "https://drive.google.com/drive/u/1/folders/1Z4rU0KKnKRYiyzH1LWut_zPuJXT_inqG" </a>
+
