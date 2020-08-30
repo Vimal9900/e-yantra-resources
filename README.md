@@ -5,7 +5,7 @@ Youtube lnk for embedded c--> "https://www.youtube.com/playlist?list=PLK0jpMYIBd
 
 ## Link for PID by Udemy
 
-Drive link for PID--> "https://drive.google.com/drive/u/1/folders/1Z4rU0KKnKRYiyzH1LWut_zPuJXT_inqG" </a>
+Drive link for PID--> "https://drive.google.com/drive/folders/1Z4rU0KKnKRYiyzH1LWut_zPuJXT_inqG?usp=sharing" </a>
 
 ## Data structure
 
