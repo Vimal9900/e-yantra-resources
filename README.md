@@ -16,7 +16,7 @@ Main algorithms for Graph traversal and shortest path finding</a>
 
 Graph representation,
 BFS,
-DFS</a>,
+DFS,
 DF traversal for a Graph,
 
 shortest path-
@@ -25,6 +25,18 @@ shortest path-
  -Dijkstra algorithm for adjacency list Representation:-
              
 -A* algorithm(<a href="https://www.geeksforgeeks.org/a-search-algorithm/">A* algo</a>)
+
+
+## Path Planning Algo (Basic idea)
+
+Path planning is used for autonomous robots to find the shortest path in the given environment. Path planning requires a map of the environment, let it be line follow or to navigate from one
+place to another. It is required to have a map of the environment and the robot to be aware of its
+location with respect to the map. There are different ways to program the robot to make it follow the shortest path. It is up-to the
+individual to decide which path planning algorithm is best suited for the given environment. You can refer the following links to learn various path planning algorithms:
+ https://www.redblobgames.com/pathfinding/a-star/introduction.html
+ https://qiao.github.io/PathFinding.js/visual/
+
+
 
 GFG link <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms</a>
 
@@ -96,13 +108,4 @@ Objects, Simulation settings and Physics Engines. YouTube Link: https://youtu.be
 2. Getting started with V-REP Part 2:
 This tutorial covers the Object properties of different shapes in V-REP, Joints and Force sensors
 and modelling a bot. YouTube Link: https://youtu.be/OKVcDioJlcY
-
-## Path Planning Algo (Basic idea)
-
-Path planning is used for autonomous robots to find the shortest path in the given environment. Path planning requires a map of the environment, let it be line follow or to navigate from one
-place to another. It is required to have a map of the environment and the robot to be aware of its
-location with respect to the map. There are different ways to program the robot to make it follow the shortest path. It is up-to the
-individual to decide which path planning algorithm is best suited for the given environment. You can refer the following links to learn various path planning algorithms:
- https://www.redblobgames.com/pathfinding/a-star/introduction.html
- https://qiao.github.io/PathFinding.js/visual/
 
