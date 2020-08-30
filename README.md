@@ -14,12 +14,10 @@ GFG link <a href="https://www.geeksforgeeks.org/data-structures/">Data Structure
 ## algorithms
 Main algorithms for Graph traversal and shortest path finding</a>
 
-Graph representation</a>
-
-BFS
-DFS</a>
-
-DF traversal for a Graph</a>
+Graph representation,
+BFS,
+DFS</a>,
+DF traversal for a Graph,
 
 shortest path-Dijkstra shortest path algorithm -
              
