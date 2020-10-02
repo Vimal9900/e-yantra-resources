@@ -20,7 +20,7 @@ DFS,
 DF traversal for a Graph,
 
 shortest path-
--Dijkstra shortest path algorithm
+-Dijkstra shortest path algorithm.
              
  -Dijkstra algorithm for adjacency list Representation
              
